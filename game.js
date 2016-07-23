@@ -1,2 +1,1 @@
-exports.gameWords = ["Harry", "Ron","Snape","Albus", "Remus","Sirius"];
-};
+exports.gameWords = ["Harry", "Ron","Snape","Albus", "Remus", "Sirius"];
